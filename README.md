@@ -5,5 +5,5 @@ This package is being released in conjunction with [IMDA Singapore](https://www.
 The objective is to help the Event industry better leverage and utilize Data & Analytics to enhance their Audience & Exhibitor engagements.
 
 There are 2 key Business Objectives that this package aims to help with:
-## Determining correlations amongst all data an Event has generated
-## Helping understand the different Audience Segments that each Attendee is suitable for based on advanced Segmentation approaches like RFM
+- Determining correlations amongst all data an Event has generated
+- Helping understand the different Audience Segments that each Attendee is suitable for based on advanced Segmentation approaches like RFM
